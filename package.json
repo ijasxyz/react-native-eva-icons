@@ -18,8 +18,8 @@
     },
     "homepage": "https://github.com/akveo/react-native-eva-icons#readme",
     "peerDependencies": {
-        "react": ">=16.8.6",
-        "react-native": ">=0.60.0",
-        "react-native-svg": ">=9.0.0"
+        "react": "*",
+        "react-native": "*",
+        "react-native-svg": "*"
     }
 }
